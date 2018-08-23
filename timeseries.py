@@ -1,5 +1,5 @@
 # app.py
-#        bokeh serve --show regression.py
+#        bokeh serve --show timeseries.py
 import numpy as np
 
 from numpy.random import random
